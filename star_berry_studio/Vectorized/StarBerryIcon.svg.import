@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cln24pjbrkwmj"
-path="res://.godot/imported/StarBerryStudioSmallLogo.png-f2b3f5bfdf879df67aa5ff866dd54ac1.ctex"
+uid="uid://ccrce1jwavj1x"
+path="res://.godot/imported/StarBerryIcon.svg-3da4d29521167da24348d28fe4c2327e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://starberry/StarBerryStudioSmallLogo.png"
-dest_files=["res://.godot/imported/StarBerryStudioSmallLogo.png-f2b3f5bfdf879df67aa5ff866dd54ac1.ctex"]
+source_file="res://star_berry_studio/Vectorized/StarBerryIcon.svg"
+dest_files=["res://.godot/imported/StarBerryIcon.svg-3da4d29521167da24348d28fe4c2327e.ctex"]
 
 [params]
 
@@ -32,3 +32,6 @@ process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
 detect_3d/compress_to=1
+svg/scale=1.0
+editor/scale_with_editor_scale=false
+editor/convert_colors_with_editor_theme=false

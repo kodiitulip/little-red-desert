@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b68gqyy4meqyr"
-path="res://.godot/imported/StarBerryStudioLogo.png-81102a0483ccfd74f90a67eacafe3d3c.ctex"
+uid="uid://bls271a68cfe1"
+path="res://.godot/imported/StarBerryNoBGIcon.png-cae456cdd9d8e5afa88519ed2032a799.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://starberry/StarBerryStudioLogo.png"
-dest_files=["res://.godot/imported/StarBerryStudioLogo.png-81102a0483ccfd74f90a67eacafe3d3c.ctex"]
+source_file="res://star_berry_studio/StarBerryNoBGIcon.png"
+dest_files=["res://.godot/imported/StarBerryNoBGIcon.png-cae456cdd9d8e5afa88519ed2032a799.ctex"]
 
 [params]
 
